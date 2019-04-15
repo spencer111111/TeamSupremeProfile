@@ -15,9 +15,7 @@ I have associate Diploma in information Technology in 1998, Diploma communicatio
 
 **Amber Rimell**
 
-My name is Amber Rimell, my student number is S3775604, and I am currently undertaking a Bachelor of IT part-time. I intend to further my studies after this and get a Masters degree. 
-I am a Kiwi, though I’ve been in Australia since I was 10. I have a 1.5 year old daughter. I like baking and video games. I have a love for computers, Playstations and all things tech. I aspire to work as a Senior Gameplay Programmer. 
-I don’t have much IT experience other than working in administration roles, using Microsoft Office frequently, and using other softwares such as MYOB. I have always been the go-to girl for fixing computer problems, though I have no professional background.
+
 
 **Vu Tran**
 
@@ -25,8 +23,6 @@ I don’t have much IT experience other than working in administration roles, us
 
 **Wayne Van Son**
 
-Hey All, I'm here and alive. I will chuck some stuff here tonight or tomorrow.
-My assignment is linked below.
 
 
 **Grace Vigo**
@@ -57,13 +53,7 @@ Entrepreneurial Quiz to see if was borne to be leader in a team environment and 
 
 **Amber Rimell's test outcomes:**
 
-According to the **16 Personalities** test, I am a Defender (ISFJ-A). I read through the results and found them to be quite accurate.
 
-The **“What’s Your Learning Style?”** test has shown that I am a Visual learner. I agree. I picture words and images in my head, and repeat them to make sure they stick in my memory. I also like to type or write things out to make sure I’m really taking all the information in.
-This shows that I am better at text conversations than I am at talking. I like to re-read conversations and info as needed.
-
-The **DISC Personality** test results state that I am - in order of most to least: Steady, Compliant, Influential, Dominant. They say that ‘You are determined to achieve objectives. You are a clear thinker. You like to pursue a definite course of action. You respond to logic rather than emotion.’. I very much agree with these statements.
-This shows that I like to get things done in a concise manner and have a clear path ahead. I am happy to follow but also feel comfortable leading.
 
 **Vu Tran's test outcomes:**
 
@@ -86,19 +76,6 @@ Ideal job is to become software developer I have be working electronic have do s
 
 **Amber Rimell's Ideal Job:**
 
-*Senior Gameplay Programmer*
-
-As a Senior Gameplay Programmer, there will be a lot of coding & debugging involved.
-
-The applicant needs the ability to:
-- Design, document & develop Core Gameplay Systems
-- Adapt
-- Problem solve
-- Collaborate
-- Have great written & oral communication
-- Design & implement Game Systems such as: User Interface, Animation, Gameplay Scripting, Online Networking
-
-I imagine that all of our dream jobs are going to require the ability to collaborate and work with others. 
 
 **Vu Tran's Ideal Job:**
 
